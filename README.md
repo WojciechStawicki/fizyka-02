@@ -1,0 +1,1 @@
+plik wykonujący obliczenia
